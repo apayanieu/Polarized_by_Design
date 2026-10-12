@@ -1,0 +1,70 @@
+[setup] CSV at /Users/fut_payi/Downloads/Math Modeling/data/runs.csv
+[setup] topologies=['er', 'ws', 'ba'] degrees=[4, 6, 8, 10] grid=25 N=200 runs=20 T_coarse=1000 T_long=3000 workers=6
+[phase1] nothing to do
+[phase2] nothing to do
+[phase3] 4890 cells, 6 workers
+[phase3]  97/4890  elapsed 1329.6s  ETA 65698.4s
+[phase3]  194/4890  elapsed 2543.6s  ETA 61569.9s
+[phase3]  291/4890  elapsed 3794.0s  ETA 59961.0s
+[phase3]  388/4890  elapsed 5184.1s  ETA 60152.1s
+[phase3]  485/4890  elapsed 6574.5s  ETA 59712.5s
+[phase3]  582/4890  elapsed 7971.7s  ETA 59007.0s
+[phase3]  679/4890  elapsed 9370.5s  ETA 58113.9s
+[phase3]  776/4890  elapsed 10765.3s  ETA 57073.0s
+[phase3]  873/4890  elapsed 12144.9s  ETA 55883.2s
+[phase3]  970/4890  elapsed 13498.9s  ETA 54552.1s
+[phase3]  1067/4890  elapsed 14875.8s  ETA 53299.3s
+[phase3]  1164/4890  elapsed 16273.3s  ETA 52091.3s
+[phase3]  1261/4890  elapsed 17632.4s  ETA 50743.9s
+[phase3]  1358/4890  elapsed 19004.5s  ETA 49428.4s
+[phase3]  1455/4890  elapsed 20347.3s  ETA 48036.3s
+[phase3]  1552/4890  elapsed 21700.9s  ETA 46673.6s
+[phase3]  1649/4890  elapsed 23037.3s  ETA 45278.4s
+[phase3]  1746/4890  elapsed 24383.2s  ETA 43906.6s
+[phase3]  1843/4890  elapsed 25713.8s  ETA 42512.3s
+[phase3]  1940/4890  elapsed 27082.8s  ETA 41182.6s
+[phase3]  2037/4890  elapsed 28471.5s  ETA 39876.9s
+[phase3]  2134/4890  elapsed 29895.6s  ETA 38609.3s
+[phase3]  2231/4890  elapsed 31315.7s  ETA 37323.3s
+[phase3]  2328/4890  elapsed 32759.2s  ETA 36052.0s
+[phase3]  2425/4890  elapsed 34247.8s  ETA 34812.7s
+[phase3]  2522/4890  elapsed 35736.6s  ETA 33554.4s
+[phase3]  2619/4890  elapsed 37212.8s  ETA 32268.2s
+[phase3]  2716/4890  elapsed 38716.5s  ETA 30990.3s
+[phase3]  2813/4890  elapsed 40200.9s  ETA 29682.7s
+[phase3]  2910/4890  elapsed 41703.3s  ETA 28375.5s
+[phase3]  3007/4890  elapsed 43178.8s  ETA 27038.8s
+[phase3]  3104/4890  elapsed 44663.0s  ETA 25698.5s
+[phase3]  3201/4890  elapsed 46170.5s  ETA 24361.8s
+[phase3]  3298/4890  elapsed 47763.8s  ETA 23056.4s
+[phase3]  3395/4890  elapsed 49418.1s  ETA 21761.4s
+[phase3]  3492/4890  elapsed 50949.1s  ETA 20397.2s
+[phase3]  3589/4890  elapsed 52380.1s  ETA 18987.6s
+[phase3]  3686/4890  elapsed 53838.3s  ETA 17585.8s
+[phase3]  3783/4890  elapsed 55338.9s  ETA 16193.5s
+[phase3]  3880/4890  elapsed 56845.4s  ETA 14797.4s
+[phase3]  3977/4890  elapsed 58421.6s  ETA 13411.9s
+[phase3]  4074/4890  elapsed 60023.8s  ETA 12022.4s
+[phase3]  4171/4890  elapsed 61717.3s  ETA 10638.9s
+[phase3]  4268/4890  elapsed 63309.3s  ETA 9226.4s
+[phase3]  4365/4890  elapsed 64827.4s  ETA 7797.1s
+[phase3]  4462/4890  elapsed 66381.0s  ETA 6367.3s
+[phase3]  4559/4890  elapsed 67944.0s  ETA 4933.0s
+[phase3]  4656/4890  elapsed 69565.7s  ETA 3496.2s
+[phase3]  4753/4890  elapsed 71144.6s  ETA 2050.7s
+[phase3]  4850/4890  elapsed 72775.3s  ETA  600.2s
+[phase3]  4890/4890  elapsed 73383.6s  ETA    0.0s
+[phase3] DONE in 73383.8s
+[done] all phases finished
+[plot] loaded 462780 rows from /Users/fut_payi/Downloads/Math Modeling/data/runs.csv
+[plot] inferred grid=25
+[plot] topologies=['er', 'ws', 'ba']  degrees=[4, 6, 8, 10]
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_heatmap_er.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_lines_er.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_heatmap_ws.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_lines_ws.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_heatmap_ba.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_lines_ba.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_all_heatmaps.png
+  wrote /Users/fut_payi/Downloads/Math Modeling/figures/fig_lines_all.png
+[plot] figures in /Users/fut_payi/Downloads/Math Modeling/figures
